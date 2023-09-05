@@ -1,0 +1,20 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "katebrune",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "abstract-factory:pattern": "ts-node src/abstract-factory/pattern.ts",
+    "abstract-factory:example": "ts-node src/abstract-factory/example.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.9",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
