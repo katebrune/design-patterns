@@ -19,9 +19,14 @@ mindmap
 		Creational Patterns(Creational Patterns)
 			Abstract Factory[Abstract Factory]
 		Structural Patterns(Structural Patterns)
+			Composite[Composite]
 		Behavioral Patterns(Behavioral Patterns)
 ```
 
 **Creational**
 
 - [AbstractFactory](https://github.com/katebrune/design-patterns/blob/main/src/abstract-factory/notes.md)
+
+**Structural**
+
+- [Composite](https://github.com/katebrune/design-patterns/blob/main/src/composite/notes.md)

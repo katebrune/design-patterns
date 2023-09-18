@@ -7,7 +7,9 @@
   "type": "module",
   "scripts": {
     "abstract-factory:pattern": "ts-node src/abstract-factory/pattern.ts",
-    "abstract-factory:example": "ts-node src/abstract-factory/example.ts"
+    "abstract-factory:example": "ts-node src/abstract-factory/example.ts",
+    "composite:pattern": "ts-node src/composite/pattern.ts",
+    "composite:example": "ts-node src/composite/example.ts"
   },
   "devDependencies": {
     "@types/node": "^20.5.9",
@@ -15,6 +17,7 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
+    "boxen": "^7.1.1",
     "chalk": "^5.3.0"
   }
 }
